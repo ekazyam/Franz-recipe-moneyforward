@@ -1,0 +1,13 @@
+{
+  "id": "moneyforward",
+  "name": "moneyforward",
+  "version": "1.0.0",
+  "description": "moneyforward",
+  "main": "index.js",
+  "author": "Kazuki Yamashita",
+  "license": "MIT",
+  "repository": "https://github.com/ekazyam/Franz-recipe-moneyforward",
+  "config": {
+    "serviceURL": "https://payroll.moneyforward.com"
+  }
+}
